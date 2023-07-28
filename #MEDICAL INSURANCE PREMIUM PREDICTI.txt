@@ -1,0 +1,6 @@
+#MEDICAL INSURANCE PREMIUM PREDICTION: BUSSINESS PROBLEM
+
+IN EXCEL DATA SET...
+Charges is our "target data set" and remaining all are our independent variables
+in short we have to use regression model because we have predict the charges.
+
