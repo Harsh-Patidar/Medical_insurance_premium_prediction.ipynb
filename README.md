@@ -1,7 +1,10 @@
 # Medical insurance premium prediction: Business Problem
 
-![what-is-insurance-premium](https://github.com/Harsh-Patidar/Medical_insurance_premium_prediction.ipynb/assets/110400713/65b605e7-353a-4e44-8429-567e9766c8e7)
+#### What is Medical insurance premium prediction?
 
+Medical insurance premium prediction involves using data analysis and machine learning to estimate the cost individuals will pay for their medical coverage. By considering factors like age, health history, lifestyle, and location, insurers can create models that forecast future premiums. This benefits both insurers, who can price accurately, and policyholders, who gain insights into costs before committing to coverage.
+
+![what-is-insurance-premium_1](https://github.com/Harsh-Patidar/Medical_insurance_premium_prediction.ipynb/assets/110400713/5e665837-1fd8-480b-8f79-e9fc6f839e4a)
 
 # About DataSet:-
 
