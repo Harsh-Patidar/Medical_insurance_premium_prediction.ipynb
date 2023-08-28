@@ -1,5 +1,8 @@
 # Medical insurance premium prediction: Business Problem
 
+![what-is-insurance-premium](https://github.com/Harsh-Patidar/Medical_insurance_premium_prediction.ipynb/assets/110400713/65b605e7-353a-4e44-8429-567e9766c8e7)
+
+
 # About DataSet:-
 
 ### Content
@@ -21,8 +24,15 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 
 charges: Individual medical costs billed by health insurance
 
-Acknowledgements
+### Acknowledgements
 The dataset is available on GitHub here.
 
-Inspiration
+### Inspiration
 Can you accurately predict insurance costs?
+
+
+### Challenges:
+
+Ensuring data privacy and security when handling sensitive personal and medical information.
+Handling potential outliers and noisy data that might impact model performance.
+Continuous adaptation of the model to changing trends and customer profiles.
